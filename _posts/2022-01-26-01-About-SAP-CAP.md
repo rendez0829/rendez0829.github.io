@@ -6,9 +6,9 @@ color:
 description: SAP CAP(Cloud Application Programing)에 대해서 설명합니다.
 ---
 
-## SAP CAP란?
+## **SAP CAP란?**
 
-<img src="https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg" width="100%" height="300" />
+![](https://blogs.sap.com/wp-content/uploads/2021/11/0-Qsi4F8ETSYY-sKPb-scaled.jpg)
 
 
 SAP Cloud Application Programing Model(CAP)은 엔터프라이즈급 서비스 및 앱을 구축하기 위한 프로그래밍 언어, 라이브러리 및 툴을 모아놓은 프레임워크(framework)입니다.
