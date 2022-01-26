@@ -23,6 +23,5 @@ CAP 프레임워크는 아래 그림에 강조 표시된 것처럼 입증되고 
 
 <br>
 <br>
-<br>
 
 <center><img src="https://cap.cloud.sap/docs/assets/overview.png" width="80%"></center>
