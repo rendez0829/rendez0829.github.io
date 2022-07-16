@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-안녕하세요. **{{ site.author.name }}** 입니다 :wave:,<br>
+안녕하세요. **{{ site.author.name }}** 입니다. :wave:,<br>
 Technical Architecture SAP BTP | Fiori/SAPUI5 Full-stack Developer | BTP Solution Architect
 
 <div class="row">
