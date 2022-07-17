@@ -26,7 +26,11 @@
   percentage: 70
   color: danger
 
-- name: Go
+- name: C#
   percentage: 70
   color: secondary
+
+- name: Go
+  percentage: 70
+  color: 
 

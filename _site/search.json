@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "003. SAP CAP Deploy",
+      "category" : "",
+      "tags"     : "SAP CAP, Node JS, Javascript, HANA Cloud",
+      "url"      : "/blog/01-003.-SAP-CAP-Deploy",
+      "date"     : "2022-07-16 00:00:00 +0900"
+    } ,
+  
+    {
       "title"    : "002. SAP CAP 프로젝트 시작하기",
       "category" : "",
       "tags"     : "SAP CAP, Node JS, Javascript, HANA Cloud",
