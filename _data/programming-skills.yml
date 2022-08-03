@@ -1,11 +1,36 @@
-- name: HTML5/CSS3
+- name: NodeJS
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: Javascript
+  percentage: 90
+  color: secondary
 
-- name: Python
+- name: HTML5/CSS3
+  percentage: 80
+  color: 
+
+- name: SAPUI5
+  percentage: 80
+  color: danger
+
+- name: Fiori
   percentage: 70
   color: secondary
+
+- name: React
+  percentage: 80
+  color: 
+
+- name: Java
+  percentage: 70
+  color: danger
+
+- name: C#
+  percentage: 70
+  color: secondary
+
+- name: Go
+  percentage: 70
+  color: 
+
